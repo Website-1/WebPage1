@@ -5,12 +5,23 @@
   <meta name="viewport" content="width=device-width">
   <title>History of Gaming</title>
 <style>
-
+ .parallax {
+    background-image: url("http://www.ps4news.org/wp-content/uploads/2016/10/games.jpg");
+    min-height: 500px; 
+   min-width: 100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 </style>
 </head>
 <body>
-<hr />
+<p>Scroll Up and Down this page to see the parallax scrolling effect.</p>
 
-<hr />
+<div class="parallax"></div>
+
+<div style="height:1000px;background-color:red;font-size:36px">
+</div>
 </body>
 </html>
