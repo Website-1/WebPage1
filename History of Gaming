@@ -6,7 +6,7 @@
   <title>History of Gaming</title>
 <style>
  .parallax {
-    background-image: url("http://www.ps4news.org/wp-content/uploads/2016/10/games.jpg");
+    background-image: url("https://mindgamesconsulting.files.wordpress.com/2012/02/1yz7f.jpg?w=1200");
     min-height: 500px; 
    min-width: 100px;
     background-attachment: fixed;
@@ -15,7 +15,7 @@
     background-size: cover;
 }
   .parallax1 {
-    background-image: url("http://www.ps4news.org/wp-content/uploads/2016/10/games.jpg");
+    background-image: url("https://mindgamesconsulting.files.wordpress.com/2012/02/1yz7f.jpg?w=1200");
     min-height: 500px; 
    min-width: 100px;
     background-attachment: fixed;
@@ -23,10 +23,22 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+  .parallax3 {
+    background-image: url("https://media1.tenor.com/images/7efb96d0e146571d818675fe288ed5a7/tenor.gif?itemid=5615146");
+    min-height: 150px; 
+   min-width: 100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+    font-size:50px;
+    
+  }
 </style>
 </head>
 <body>
-<div style="height:100px;background-color:black;font-size:50px; text-align:center; color:white">
+<div class="parallax3">
   History of Gaming
 </div>
 <div class="parallax"></div>
@@ -35,8 +47,6 @@
 
   </div>
   <div class="parallax1">
-    
-    
   </div>
 </body>
 </html>
