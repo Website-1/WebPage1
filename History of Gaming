@@ -36,8 +36,23 @@
     font-size:50px;
       margin-top:20px;
   }
+    .parallax4 {
+    background-image: url("https://www.um.edu.mt/think/wp-content/uploads/2016/10/gaming01.jpg");
+    min-height: 150px; 
+   min-width: 100px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+    font-size:50px;
+      margin-top:20px;
+  }
   .dbsu19 {
     margin-left : 200px
+  }
+  .b7821sd {
+    
   }
 </style>
 </head>
@@ -47,24 +62,31 @@
 </div>
 <div class="parallax"></div>
 
-<div style="font-size:30px">
+<div class="b7821sd" style="font-size:30px;">
 <h1> Different Types of Gamers:</h1> 
   <ul> 
-  <li>The Hater</li> 
+    <li>The Hater</li> 
     <li>The Jock</li> 
     <li>The True Nerd</li> 
     <li>The Politican</li> 
     <li>The Snob</li> 
     <li>The Rebounder</li>
     <li>The Collector</li> 
-    <li>The Cheater</li> 
+    <a href="https://www.youtube.com/watch?v=hqvyaR0Gks4"><li>The Cheater</li> </a>
     <li>The Wizard</li>
    </ul> 
   </div>
   <div class="parallax1">
   </div>
    <div style="font-size:25px;">
-   The history of gaming was was created in the 1940 New York World’s fair by Dr. Edward Uhler Condon. He unveiled a game based on the ancient mathematical game of Nim, unfortunately this was not our first commercial home game system. It was three decades after the unveil of the first gaming system was when we got our first commercial home game system. It was a prototype called the “Brown Box”. The Brown box was created in 1967. In the early 1970s, Atari emerged into the spotlight of the gaming community. The first gaming company to sell and produce games for the public. They produced Pong and arcade games during their beginnings.
+     <a href="https://techcrunch.com/2015/10/31/the-history-of-gaming-an-evolving-community/"><h1 style="text-align:center;">History</h1></a>
+   The history of gaming was was created in the 1940 New York World’s fair by Dr. Edward Uhler Condon. He unveiled a game based on the ancient mathematical game of Nim, unfortunately this was not our first commercial home game system. It was three decades after the unveil of the first gaming system was when we got our first commercial home game system. It was a prototype called the “Brown Box”. The Brown box was created in 1967. In the early 1970s, Atari emerged into the spotlight of the gaming community. The first gaming company to sell and produce games for the public. They produced Pong and arcade games during their beginnings. <br /><br />
+     In the 2000s we came a far way to games. We have now are powerful companies that are behemoths in the gaming history. The main consoles are xbox, playstation,and nintendo. These companies have produce consoles of their own and have evolved them into current models for each year. This is a result of gamers demand. The gamers would want better graphics, resolution, and performance of games. The want for this and that results in companies not going back to their roots and relying on new mechanics to help the games perform better when they really need is a simple mechanic that everyone loved in the past. This is our future of gaming.<br /><br />
+     <div class="parallax4">
+     <br /></div>
+     Not only is there a future in gaming, but there is also amazing gaming moments in history to spark the gaming communities. Just to spark the water, there are many games that have easter eggs, which could possibly get the attention of the viewer. For example, there is marco polo in uncharted 2, where the main character decides to get into a pool to play marco polo. He is critisized by his partnet, but then later on gets a response from the partner. Even though games easter eggs is a very interesting factor, the change in graphics over years is an even better. A big change is one of the most revolutionary games to today, which is doom, which came out in 1993. This game has overall changed the FPS perspective on game creators in that time period. <br /><br />
+     Even more history effects are from gaming. Some may be unfortunate, but others are mostly great. To start with the bad one, there are people that plotted to do a heist after playing grand theft auto. They were later sent to jail for attempt robbery. Onto the good new. Many memorable moments, such as street fighter .2 second reaction time has happened between two korean players for the championship. This moment was so memorable, that they were asked to replicate this moment, but was only able to do it once more like before. 
+
      </div>
 </body>
 </html>
